@@ -3,3 +3,4 @@ I'm new here.
 This is modified profile.
 Now we can commit it.
 logo alignment at centre. 
+This is issue problem solve.
